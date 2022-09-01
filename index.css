@@ -1,0 +1,17 @@
+.album{
+  background-image: url(https://img.freepik.com/fotos-premium/grupo-personas-haciendo-ejercicios-calentamiento-gimnasio_23-2147949530.jpg?w=1380);
+  position: relative;
+}
+.navbar-nav{
+    position: sticky;
+    left: 32%;
+    transform: translatex(-50%);
+}
+
+.btn-outline-light{
+  transform: translatex(-350%);
+}
+
+.card{
+  background-color: orange;
+}
